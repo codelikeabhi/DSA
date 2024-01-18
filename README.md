@@ -7,3 +7,9 @@ Welcome to my Daily **Data Structures and Algorithms (DSA)** practice repository
 - `cpp/`: Contains C++ solutions.
 - `python/`: Contains Python solutions.
 
+
+## Getting Started
+
+1. Clone the repository:
+
+  gh repo clone codelikeabhi/DSA
