@@ -4,8 +4,8 @@ Welcome to my Daily **Data Structures and Algorithms (DSA)** practice repository
 
 ## Folder Structure
 
-- `cpp/`: Contains C++ solutions.
-- `python/`: Contains Python solutions.
+- `C++/`: Contains C++ solutions.
+- `Python/`: Contains Python solutions.
 
 
 ## Getting Started
